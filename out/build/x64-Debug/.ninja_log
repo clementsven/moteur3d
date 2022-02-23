@@ -1,0 +1,19 @@
+# ninja log v5
+0	574	6670036279149486	CMakeFiles/tinyrenderer.dir/geometry.cpp.obj	76cd2b9bd9a0a916
+4	604	6670036279438699	CMakeFiles/tinyrenderer.dir/lesson2.cpp.obj	958190975cc024cd
+11	695	6670036280356243	CMakeFiles/tinyrenderer.dir/tgaimage.cpp.obj	549f2fabd1fd532
+7	717	6670036280595594	CMakeFiles/tinyrenderer.dir/model.cpp.obj	ba0bc6409a0d8587
+718	1063	6670036283918491	tinyrenderer.exe	8cce6ceb16d76420
+0	773	6673146608364420	tinyrenderer.exe	8cce6ceb16d76420
+0	847	6673149998142152	CMakeFiles/tinyrenderer.dir/lesson2.cpp.obj	958190975cc024cd
+878	1027	6673149999744291	tinyrenderer.exe	8cce6ceb16d76420
+1	420	6673150393747619	CMakeFiles/tinyrenderer.dir/lesson2.cpp.obj	958190975cc024cd
+425	559	6673150394941718	tinyrenderer.exe	8cce6ceb16d76420
+0	419	6673152355424434	CMakeFiles/tinyrenderer.dir/lesson2.cpp.obj	958190975cc024cd
+422	572	6673152356706251	tinyrenderer.exe	8cce6ceb16d76420
+0	457	6673154236752470	CMakeFiles/tinyrenderer.dir/lesson2.cpp.obj	958190975cc024cd
+461	618	6673154238108827	tinyrenderer.exe	8cce6ceb16d76420
+1	861	6673164490847767	CMakeFiles/tinyrenderer.dir/lesson2.cpp.obj	958190975cc024cd
+865	1235	6673164493531064	tinyrenderer.exe	8cce6ceb16d76420
+0	501	6673165221655189	CMakeFiles/tinyrenderer.dir/lesson2.cpp.obj	958190975cc024cd
+505	676	6673165223151195	tinyrenderer.exe	8cce6ceb16d76420
